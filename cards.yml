@@ -1,0 +1,15 @@
+build:
+   version: "3.0"
+
+
+cards:
+
+   message: "Welcome to Eazybank cards related local APIs"
+
+   contactDetails:
+       name: "Ajit - Developer"
+       email: "ajit@gmail.com"
+
+   onCallSupport:
+       - (288) 212-9878
+       - (277) 234-3234

@@ -1,0 +1,14 @@
+build:
+  version: "2.0"
+
+loans:
+
+  message: "Welcome to Eazybank loans related QA APIs"
+
+  contactDetails:
+    name: "Rohit - QA Lead"
+    email: "rohit@gmail.com"
+
+  onCallSupport:
+    - (888) 124-2123
+    - (888) 123-8379

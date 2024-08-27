@@ -1,0 +1,14 @@
+build:
+  version: "1.0"
+
+
+accounts:
+  message: "Welcome to Eazybank account related Prod APIs"
+
+  contactDetails:
+    name: "Sumit Rathod - Product Owner"
+    email: "sumit@gmail.com"
+
+  onCallSupport:
+    - (777) 263-1234
+    - (777) 434-1345

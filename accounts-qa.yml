@@ -1,0 +1,14 @@
+build:
+   version: "2.0"
+
+
+accounts:
+    message: "Welcome to Eazybank account related QA APIs"
+
+    contactDetails:
+     name: "Amit Rathod - QA Lead"
+     email: "amit@gmail.com"
+
+    onCallSupport:
+     - (666) 265-1234
+     - (666) 466-1345

@@ -1,0 +1,15 @@
+build:
+    version: 1.0
+
+
+cards:
+
+    message: "Welcome to Eazybank cards related Prod APIs"
+
+    contactDetails:
+        name: "Aman - Product Owner"
+        email: "aman@gmail.com"
+
+    onCallSupport:
+        - (881) 112-9878
+        - (882) 134-3234

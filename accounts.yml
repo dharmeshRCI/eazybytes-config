@@ -1,0 +1,14 @@
+build:
+   version: "3.0"
+
+
+accounts:
+    message: "Welcome to Eazybank account related local APIs"
+
+    contactDetails:
+     name: "Dharmesh Rathod - Developer"
+     email: "dharmesh@gmail.com"
+
+    onCallSupport:
+     - (555) 555-1234
+     - (555) 523-1345

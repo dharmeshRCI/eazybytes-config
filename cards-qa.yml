@@ -1,0 +1,15 @@
+build:
+    version: 2.0
+
+
+cards:
+
+    message: "Welcome to Eazybank cards related QA APIs"
+
+    contactDetails:
+        name: "Rajat - QA Lead"
+        email: "rajat@gmail.com"
+
+    onCallSupport:
+        - (188) 112-9878
+        - (189) 134-3234

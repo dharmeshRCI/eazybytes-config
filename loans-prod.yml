@@ -1,0 +1,14 @@
+build:
+  version: "1.0"
+
+loans:
+
+  message: "Welcome to Eazybank loans related PROD APIs"
+
+  contactDetails:
+    name: "Bharat - Product Owner"
+    email: "bharat@gmail.com"
+
+  onCallSupport:
+    - (111) 456-2123
+    - (111) 459-8379
