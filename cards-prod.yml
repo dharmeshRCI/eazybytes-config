@@ -4,7 +4,7 @@ build:
 
 cards:
 
-    message: "Welcome to Eazybank cards related Prod Webhook APIs"
+    message: "Welcome to Eazybank cards related Prod Webhook example!!! APIs"
 
     contactDetails:
         name: "Aman - Product Owner"
