@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to Eazybank account related Prod APIs"
+  message: "Welcome to Eazybank account related Prod webhook APIs"
 
   contactDetails:
     name: "Sumit Rathod - Product Owner"
