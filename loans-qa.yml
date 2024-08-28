@@ -3,7 +3,7 @@ build:
 
 loans:
 
-  message: "Welcome to Eazybank loans related QA APIs"
+  message: "Welcome to Eazybank loans related QA by dharmesh rathod APIs"
 
   contactDetails:
     name: "Rohit - QA Lead"
