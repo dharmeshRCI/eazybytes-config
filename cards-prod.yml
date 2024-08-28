@@ -4,7 +4,7 @@ build:
 
 cards:
 
-    message: "Welcome to Eazybank cards related Prod APIs"
+    message: "Welcome to Eazybank cards related Production APIs"
 
     contactDetails:
         name: "Aman - Product Owner"
