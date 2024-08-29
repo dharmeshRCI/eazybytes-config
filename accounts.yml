@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-    message: "Welcome to Eazybank account related local APIs with webhook"
+    message: "Welcome to Eazybank account related local APIs with webhook setting"
 
     contactDetails:
      name: "Dharmesh Rathod - Developer"
